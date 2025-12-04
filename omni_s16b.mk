@@ -12,11 +12,11 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit some common Omni stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
 
-# Inherit from uws6152_1h10_go device
-$(call inherit-product, device/sprd/uws6152_1h10_go/device.mk)
+# Inherit from s16b device
+$(call inherit-product, device/xintaiqi/s16b/device.mk)
 
-PRODUCT_DEVICE := uws6152_1h10_go
-PRODUCT_NAME := omni_uws6152_1h10_go
+PRODUCT_DEVICE := s16b
+PRODUCT_NAME := omni_s16b
 PRODUCT_BRAND := XinTaiQi
 PRODUCT_MODEL := XTQ_Watch
 PRODUCT_MANUFACTURER := sprd

@@ -5,6 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/sprd/uws6152_1h10_go
-
-PRODUCT_PACKAGES += liblog
+LOCAL_PATH := device/xintaiqi/s16b
