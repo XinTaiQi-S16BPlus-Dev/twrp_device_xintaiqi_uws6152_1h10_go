@@ -1,7 +1,8 @@
-on early-init
-    symlink /vendor/lib64/hw/keystore.sprdtrusty.so /vendor/lib64/hw/keystore.${ro.hardware}.so
+#on early-init
+# FUCKYOUSELINUX
 
 on init
+    symlink /vendor/lib64/hw/keystore.sprdtrusty.so /vendor/lib64/hw/keystore.${ro.hardware}.so
     start servicemanager
     start hwservicemanager
     start vndservicemanager

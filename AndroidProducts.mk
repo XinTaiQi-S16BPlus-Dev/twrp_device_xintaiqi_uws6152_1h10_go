@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_s16b.mk
+    $(LOCAL_DIR)/omni_uws6152_1h10_go.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_s16b-eng
+    omni_uws6152_1h10_go-eng

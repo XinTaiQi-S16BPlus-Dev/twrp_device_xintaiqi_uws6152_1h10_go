@@ -314,7 +314,7 @@ service wcnd_eng-cali /vendor/bin/connmgr -G
 service vendor.mlogservice /vendor/bin/mlogservice
     class main
     user shell
-    group system meida_rw root
+    group system media_rw root
 
 service console-cali /system/bin/sh
     console

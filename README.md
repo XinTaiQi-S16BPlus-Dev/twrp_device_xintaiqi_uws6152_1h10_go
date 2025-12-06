@@ -7,7 +7,7 @@ Copyright (C) 2025 SebaUbuntu's TWRP device tree generator
 Device configuration for XinTaiQi S16B
 =========================================
 
-The XinTaiQi S16B (codenamed _"uws6152_1h10_go_32b"_) is a high-end smartwatch from XinTaiQi.
+The XinTaiQi S16B (codenamed _"uws6152_1h10_go"_) is a high-end smartwatch from XinTaiQi.
 
 It was announced in May 2025. Release date was June 2025.
 

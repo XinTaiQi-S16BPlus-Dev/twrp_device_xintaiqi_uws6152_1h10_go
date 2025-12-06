@@ -1,4 +1,4 @@
-DEVICE_PATH := device/xintaiqi/s16b
+DEVICE_PATH := device/xintaiqi/uws6152_1h10_go
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
